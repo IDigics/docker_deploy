@@ -31,7 +31,7 @@ TypeOrmModule.forRoot({
 
 3. **Verify**:  
    ```bash  
-   curl http://localhost:3000/cars  # Should return your data  
+   curl http://localhost:3000/cars | jq   # Should return your data  
    ```  
 
 #### **3. Why This Works**  
