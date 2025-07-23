@@ -1,4 +1,3 @@
-Here's the **clear, concise documentation** for your team:
 
 ---
 
